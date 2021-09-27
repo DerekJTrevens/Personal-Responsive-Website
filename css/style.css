@@ -83,11 +83,13 @@ header a:hover{
 #showcase{
     min-height: 400px;
     background: url('../img/hackerman.jpg') no-repeat 0 -400px;
+    background-size: 95%;
+    background-position: center;
+
     text-align: center;
     position: relative;
-    
-    color: #cc8899;
-    -webkit-text-stroke: 1px white;
+    color: #7c1de8;
+    -webkit-text-stroke: 1px #ffffff;
 }
 
 #showcase h1{
